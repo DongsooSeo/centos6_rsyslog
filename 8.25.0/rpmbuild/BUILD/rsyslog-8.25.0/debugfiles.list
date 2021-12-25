@@ -1,0 +1,199 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/lib64
+%dir /usr/lib/debug/lib64/rsyslog
+%dir /usr/lib/debug/bin
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/75
+%dir /usr/lib/debug/.build-id/4e
+%dir /usr/lib/debug/.build-id/c1
+%dir /usr/lib/debug/.build-id/5f
+%dir /usr/lib/debug/.build-id/8f
+%dir /usr/lib/debug/.build-id/3e
+%dir /usr/lib/debug/.build-id/37
+%dir /usr/lib/debug/.build-id/5c
+%dir /usr/lib/debug/.build-id/cd
+%dir /usr/lib/debug/.build-id/f0
+%dir /usr/lib/debug/.build-id/c9
+%dir /usr/lib/debug/.build-id/29
+%dir /usr/lib/debug/.build-id/ac
+%dir /usr/lib/debug/.build-id/0d
+%dir /usr/lib/debug/.build-id/89
+%dir /usr/lib/debug/.build-id/50
+%dir /usr/lib/debug/.build-id/36
+%dir /usr/lib/debug/.build-id/1b
+%dir /usr/lib/debug/.build-id/ad
+%dir /usr/lib/debug/.build-id/ce
+%dir /usr/lib/debug/.build-id/79
+%dir /usr/lib/debug/.build-id/ed
+%dir /usr/lib/debug/.build-id/d7
+%dir /usr/lib/debug/.build-id/d9
+%dir /usr/lib/debug/.build-id/81
+%dir /usr/lib/debug/.build-id/01
+%dir /usr/lib/debug/.build-id/93
+%dir /usr/lib/debug/.build-id/80
+%dir /usr/lib/debug/.build-id/85
+%dir /usr/lib/debug/.build-id/ae
+%dir /usr/lib/debug/.build-id/ca
+%dir /usr/lib/debug/.build-id/b6
+%dir /usr/lib/debug/.build-id/3b
+%dir /usr/lib/debug/.build-id/12
+%dir /usr/lib/debug/.build-id/f3
+%dir /usr/lib/debug/.build-id/e0
+%dir /usr/lib/debug/.build-id/63
+%dir /usr/lib/debug/.build-id/e6
+%dir /usr/lib/debug/.build-id/64
+%dir /usr/lib/debug/.build-id/26
+%dir /usr/lib/debug/.build-id/d3
+%dir /usr/lib/debug/.build-id/db
+%dir /usr/lib/debug/sbin
+/usr/lib/debug/lib64/rsyslog/omprog.so.debug
+/usr/lib/debug/lib64/rsyslog/pmlastmsg.so.debug
+/usr/lib/debug/lib64/rsyslog/mmnormalize.so.debug
+/usr/lib/debug/lib64/rsyslog/pmaixforwardedfrom.so.debug
+/usr/lib/debug/lib64/rsyslog/lmtcpclt.so.debug
+/usr/lib/debug/lib64/rsyslog/omlibdbi.so.debug
+/usr/lib/debug/lib64/rsyslog/mmsequence.so.debug
+/usr/lib/debug/lib64/rsyslog/pmciscoios.so.debug
+/usr/lib/debug/lib64/rsyslog/omtesting.so.debug
+/usr/lib/debug/lib64/rsyslog/imudp.so.debug
+/usr/lib/debug/lib64/rsyslog/imklog.so.debug
+/usr/lib/debug/lib64/rsyslog/lmzlibw.so.debug
+/usr/lib/debug/lib64/rsyslog/mmanon.so.debug
+/usr/lib/debug/lib64/rsyslog/mmutf8fix.so.debug
+/usr/lib/debug/lib64/rsyslog/ommongodb.so.debug
+/usr/lib/debug/lib64/rsyslog/omudpspoof.so.debug
+/usr/lib/debug/lib64/rsyslog/mmexternal.so.debug
+/usr/lib/debug/lib64/rsyslog/mmjsonparse.so.debug
+/usr/lib/debug/lib64/rsyslog/lmsig_gt.so.debug
+/usr/lib/debug/lib64/rsyslog/omelasticsearch.so.debug
+/usr/lib/debug/lib64/rsyslog/ompgsql.so.debug
+/usr/lib/debug/lib64/rsyslog/lmsig_ksi.so.debug
+/usr/lib/debug/lib64/rsyslog/omuxsock.so.debug
+/usr/lib/debug/lib64/rsyslog/imuxsock.so.debug
+/usr/lib/debug/lib64/rsyslog/mmfields.so.debug
+/usr/lib/debug/lib64/rsyslog/immark.so.debug
+/usr/lib/debug/lib64/rsyslog/imtcp.so.debug
+/usr/lib/debug/lib64/rsyslog/omkafka.so.debug
+/usr/lib/debug/lib64/rsyslog/imfile.so.debug
+/usr/lib/debug/lib64/rsyslog/mmrm1stspace.so.debug
+/usr/lib/debug/lib64/rsyslog/lmnsd_ptcp.so.debug
+/usr/lib/debug/lib64/rsyslog/lmstrmsrv.so.debug
+/usr/lib/debug/lib64/rsyslog/ommail.so.debug
+/usr/lib/debug/lib64/rsyslog/imrelp.so.debug
+/usr/lib/debug/lib64/rsyslog/lmnsd_gtls.so.debug
+/usr/lib/debug/lib64/rsyslog/lmcry_gcry.so.debug
+/usr/lib/debug/lib64/rsyslog/lmnet.so.debug
+/usr/lib/debug/lib64/rsyslog/lmregexp.so.debug
+/usr/lib/debug/lib64/rsyslog/lmtcpsrv.so.debug
+/usr/lib/debug/lib64/rsyslog/omrelp.so.debug
+/usr/lib/debug/lib64/rsyslog/mmpstrucdata.so.debug
+/usr/lib/debug/lib64/rsyslog/ommysql.so.debug
+/usr/lib/debug/lib64/rsyslog/lmnetstrms.so.debug
+/usr/lib/debug/lib64/rsyslog/omsnmp.so.debug
+/usr/lib/debug/lib64/rsyslog/imptcp.so.debug
+/usr/lib/debug/lib64/rsyslog/impstats.so.debug
+/usr/lib/debug/bin/rscryutil.debug
+/usr/lib/debug/bin/rsgtutil.debug
+/usr/lib/debug/bin/logctl.debug
+/usr/lib/debug/.build-id/75/d17ff50527a67386d320e846067578958d10ca.debug
+/usr/lib/debug/.build-id/75/8122981a68b21aa16f229d18670c44307787d8.debug
+/usr/lib/debug/.build-id/75/8122981a68b21aa16f229d18670c44307787d8
+/usr/lib/debug/.build-id/75/d17ff50527a67386d320e846067578958d10ca
+/usr/lib/debug/.build-id/4e/d6c6d4417466e34f4896e0c2d6872e3a2b44cf.debug
+/usr/lib/debug/.build-id/4e/d6c6d4417466e34f4896e0c2d6872e3a2b44cf
+/usr/lib/debug/.build-id/c1/5c5930fb8b5593d889d4aa9529596afc746638
+/usr/lib/debug/.build-id/c1/5c5930fb8b5593d889d4aa9529596afc746638.debug
+/usr/lib/debug/.build-id/5f/bcc653c890c5ed2867737f0e18475be4fdd529.debug
+/usr/lib/debug/.build-id/5f/bcc653c890c5ed2867737f0e18475be4fdd529
+/usr/lib/debug/.build-id/8f/de299a50d293400b6d4e007ddd818ece24a0a8.debug
+/usr/lib/debug/.build-id/8f/de299a50d293400b6d4e007ddd818ece24a0a8
+/usr/lib/debug/.build-id/3e/7f63dc837446319411dc042538fb8af1e7d4af
+/usr/lib/debug/.build-id/3e/7f63dc837446319411dc042538fb8af1e7d4af.debug
+/usr/lib/debug/.build-id/37/156ff5da739a58aee6c85221fcfd729644d45b.debug
+/usr/lib/debug/.build-id/37/156ff5da739a58aee6c85221fcfd729644d45b
+/usr/lib/debug/.build-id/5c/62f8f84aacee3dac2e1dc13923dc85ec446759
+/usr/lib/debug/.build-id/5c/62f8f84aacee3dac2e1dc13923dc85ec446759.debug
+/usr/lib/debug/.build-id/cd/566014dace703004cd5748dc2adb9484b55aa8.debug
+/usr/lib/debug/.build-id/cd/581e9b12e809e50890dd203141ecf97d4472fa.debug
+/usr/lib/debug/.build-id/cd/30c9ae9428482369a73fa8429f5975c64de623.debug
+/usr/lib/debug/.build-id/cd/581e9b12e809e50890dd203141ecf97d4472fa
+/usr/lib/debug/.build-id/cd/30c9ae9428482369a73fa8429f5975c64de623
+/usr/lib/debug/.build-id/cd/566014dace703004cd5748dc2adb9484b55aa8
+/usr/lib/debug/.build-id/f0/a60bedb59eb65ded0ee51d549448e1fc461d44.debug
+/usr/lib/debug/.build-id/f0/a60bedb59eb65ded0ee51d549448e1fc461d44
+/usr/lib/debug/.build-id/c9/3b126f9930597f18384f3c74c53d5720782fd9
+/usr/lib/debug/.build-id/c9/3b126f9930597f18384f3c74c53d5720782fd9.debug
+/usr/lib/debug/.build-id/29/47cc1fdb6498184272172b81257162783e316f.debug
+/usr/lib/debug/.build-id/29/47cc1fdb6498184272172b81257162783e316f
+/usr/lib/debug/.build-id/ac/a499aa0bc2e06328a3e1bb01040dace9173aa0.debug
+/usr/lib/debug/.build-id/ac/a499aa0bc2e06328a3e1bb01040dace9173aa0
+/usr/lib/debug/.build-id/ac/06ff036804d312e980d76011c76e94e80f412b
+/usr/lib/debug/.build-id/ac/06ff036804d312e980d76011c76e94e80f412b.debug
+/usr/lib/debug/.build-id/0d/fe2a5953c3b4e87ba26467c12af6fdcf86a21c
+/usr/lib/debug/.build-id/0d/6ec313c51d409156a0597eeaf4f391e1cb20b1
+/usr/lib/debug/.build-id/0d/fe2a5953c3b4e87ba26467c12af6fdcf86a21c.debug
+/usr/lib/debug/.build-id/0d/6ec313c51d409156a0597eeaf4f391e1cb20b1.debug
+/usr/lib/debug/.build-id/89/bd68905d836562aaba28e764af29a05d865e10.debug
+/usr/lib/debug/.build-id/89/bd68905d836562aaba28e764af29a05d865e10
+/usr/lib/debug/.build-id/50/8775a565c9e05ac68cd34c5e30475e8d2df191.debug
+/usr/lib/debug/.build-id/50/8775a565c9e05ac68cd34c5e30475e8d2df191
+/usr/lib/debug/.build-id/36/f59f5d590b91930b761adefb1f8a2e1ea106b2.debug
+/usr/lib/debug/.build-id/36/f59f5d590b91930b761adefb1f8a2e1ea106b2
+/usr/lib/debug/.build-id/1b/0d9a4be5e96ed7d9e36846a67cf88f407763fe
+/usr/lib/debug/.build-id/1b/0d9a4be5e96ed7d9e36846a67cf88f407763fe.debug
+/usr/lib/debug/.build-id/ad/17635a956958e7584de3568227f830cbfd23a6.debug
+/usr/lib/debug/.build-id/ad/17635a956958e7584de3568227f830cbfd23a6
+/usr/lib/debug/.build-id/ce/24f2c12dcdce0179c46c955bfcb349a94f66eb.debug
+/usr/lib/debug/.build-id/ce/24f2c12dcdce0179c46c955bfcb349a94f66eb
+/usr/lib/debug/.build-id/79/b400e2603b49ed4dfbaccb3949f0121a99ddfe
+/usr/lib/debug/.build-id/79/b400e2603b49ed4dfbaccb3949f0121a99ddfe.debug
+/usr/lib/debug/.build-id/ed/203e631d4c30a3b12e9a8eacaab4ada69b0144.debug
+/usr/lib/debug/.build-id/ed/203e631d4c30a3b12e9a8eacaab4ada69b0144
+/usr/lib/debug/.build-id/d7/e6e0bb3091247462055fa316a9de81ca28b32d.debug
+/usr/lib/debug/.build-id/d7/e6e0bb3091247462055fa316a9de81ca28b32d
+/usr/lib/debug/.build-id/d7/02ebc5b989d618e78ed14414447daf747e9aa8
+/usr/lib/debug/.build-id/d7/02ebc5b989d618e78ed14414447daf747e9aa8.debug
+/usr/lib/debug/.build-id/d9/d65a44471dbc49e58a1bcce46ee420963906c8.debug
+/usr/lib/debug/.build-id/d9/d65a44471dbc49e58a1bcce46ee420963906c8
+/usr/lib/debug/.build-id/81/0e3ecde3badf4c664e78187bbc50865d945e0b.debug
+/usr/lib/debug/.build-id/81/0e3ecde3badf4c664e78187bbc50865d945e0b
+/usr/lib/debug/.build-id/01/33e8c45c4eceb3b7d27306b980fdabd4fcbc14
+/usr/lib/debug/.build-id/01/33e8c45c4eceb3b7d27306b980fdabd4fcbc14.debug
+/usr/lib/debug/.build-id/93/4d51ddd9607b49bf1a6298014b8daa1985f6e6.debug
+/usr/lib/debug/.build-id/93/4d51ddd9607b49bf1a6298014b8daa1985f6e6
+/usr/lib/debug/.build-id/80/684ee386af78f079d1848b8be224c85a431f57
+/usr/lib/debug/.build-id/80/684ee386af78f079d1848b8be224c85a431f57.debug
+/usr/lib/debug/.build-id/85/357249198b6c95466d1588d0d8e185a6a833de
+/usr/lib/debug/.build-id/85/357249198b6c95466d1588d0d8e185a6a833de.debug
+/usr/lib/debug/.build-id/ae/c7ddc34d4351dcc6125b20e0463d43fdd44535
+/usr/lib/debug/.build-id/ae/c7ddc34d4351dcc6125b20e0463d43fdd44535.debug
+/usr/lib/debug/.build-id/ca/d7118c48fa4a3e4ffdc112d6d6ebf1e0111bec.debug
+/usr/lib/debug/.build-id/ca/2c516d257a4e7284a8bbbe917c6e60f717c52c
+/usr/lib/debug/.build-id/ca/d7118c48fa4a3e4ffdc112d6d6ebf1e0111bec
+/usr/lib/debug/.build-id/ca/2c516d257a4e7284a8bbbe917c6e60f717c52c.debug
+/usr/lib/debug/.build-id/b6/f5fe45fbf8fd99ef55f11b5c567cded1eab1ac
+/usr/lib/debug/.build-id/b6/f5fe45fbf8fd99ef55f11b5c567cded1eab1ac.debug
+/usr/lib/debug/.build-id/3b/76a3f951c1aab15dabfd2b286048970ea85d81
+/usr/lib/debug/.build-id/3b/76a3f951c1aab15dabfd2b286048970ea85d81.debug
+/usr/lib/debug/.build-id/12/de3910d1aea4b58c7350dc9200d5e5b18cbd90.debug
+/usr/lib/debug/.build-id/12/de3910d1aea4b58c7350dc9200d5e5b18cbd90
+/usr/lib/debug/.build-id/f3/faf170c522fecb9068639138adde2aa57fcb15.debug
+/usr/lib/debug/.build-id/f3/b276bd4d6e0016ce1d1a4679f428c73d5b209d
+/usr/lib/debug/.build-id/f3/b276bd4d6e0016ce1d1a4679f428c73d5b209d.debug
+/usr/lib/debug/.build-id/f3/faf170c522fecb9068639138adde2aa57fcb15
+/usr/lib/debug/.build-id/e0/dc35fc8c83f9678ff024b13640dd85c6877947
+/usr/lib/debug/.build-id/e0/dc35fc8c83f9678ff024b13640dd85c6877947.debug
+/usr/lib/debug/.build-id/63/7bb13178561a1dc705237fb897a60ea7536139.debug
+/usr/lib/debug/.build-id/63/7bb13178561a1dc705237fb897a60ea7536139
+/usr/lib/debug/.build-id/e6/6f9c5e3bc8c9de0b90481c8a996c8c01c0db4e.debug
+/usr/lib/debug/.build-id/e6/6f9c5e3bc8c9de0b90481c8a996c8c01c0db4e
+/usr/lib/debug/.build-id/64/e2f3a8a565a7b134b05999cc7b06aac764480a
+/usr/lib/debug/.build-id/64/e2f3a8a565a7b134b05999cc7b06aac764480a.debug
+/usr/lib/debug/.build-id/26/3f241217ce56c8d553fc0b98f150e99ab3bcce.debug
+/usr/lib/debug/.build-id/26/3f241217ce56c8d553fc0b98f150e99ab3bcce
+/usr/lib/debug/.build-id/d3/00b8520869ed9c80788ea5fe041d0f0aa68661.debug
+/usr/lib/debug/.build-id/d3/00b8520869ed9c80788ea5fe041d0f0aa68661
+/usr/lib/debug/.build-id/db/94b1b6e8dff0cb008cc5e0fb80181af90f75be.debug
+/usr/lib/debug/.build-id/db/94b1b6e8dff0cb008cc5e0fb80181af90f75be
+/usr/lib/debug/sbin/rsyslogd.debug
+/usr/src/debug/rsyslog-8.25.0

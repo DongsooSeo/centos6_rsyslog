@@ -1,0 +1,3 @@
+compat_la-getifaddrs.lo: getifaddrs.c ../config.h
+
+../config.h:
